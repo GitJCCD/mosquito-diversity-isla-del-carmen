@@ -1,4 +1,9 @@
 # mosquito-diversity-isla-del-carmen
+
+## License Change
+As of 12/03/2025, this repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Previous versions of the code were released under the GNU License.
+
+
 Database of female mosquito diversity of Isla del Carmen Campeche, Mexico
 This dataset contains data on female mosquito diversity as assessed in Isla del Carmen Campeche, Mexico, over a 12-month sampling period.
 Samplings were carried out along three transects in different vegetation types: a modified area by buildings but still containing semideciduous forest native vegetation (BLDSM), an area of a mixture of dominant mangrove and less abundant semideciduous forest vegetation (MGSM); and a mixture of dominant vegetation of semideciduous forest and less abundant mangrove trees (SMMG).
